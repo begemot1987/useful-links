@@ -7,3 +7,8 @@ https://medium.com/codex/spring-boot-microservices-coding-style-guidelines-and-b
 ## MAPSTRUCT
 https://mapstruct.org/documentation/ide-support/#eclipse -> how to enable mapstruct in eclipse(!!!must enable!!! - Preferences->Maven->Delegate annotation processing to maven plugins)</br>
 https://www.youtube.com/watch?v=nvjqtWQ5zj8 -> couple words about mapstruct
+
+
+
+## MICROSERVICES
+https://www.youtube.com/watch?v=CZ3wIuvmHeM
