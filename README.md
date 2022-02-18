@@ -16,3 +16,8 @@ https://www.youtube.com/watch?v=CZ3wIuvmHeM
 ## CAMUNDA
 
 https://www.youtube.com/watch?v=sgcSm7YneTs&list=PLJG25HlmvsOVssaiPmavxv3htN_dXS3BW
+
+
+## SOME INTERESTING LINKS
+
+https://swapi.dev/
