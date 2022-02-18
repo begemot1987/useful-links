@@ -4,5 +4,5 @@ https://www.javainuse.com/spring/cloud-filter -> filtering in api-gateway `TODO 
 
 https://medium.com/codex/spring-boot-microservices-coding-style-guidelines-and-best-practices-1dec229161c8 -> Spring Boot Micriservices reccomendations </br>
 
-
-https://mapstruct.org/documentation/ide-support/#eclipse -> how to enable mapstruct in eclipse(!!!must enable!!! - Preferences->Maven->Delegate annotation processing to maven plugins)
+## MAPSTRUCT
+https://mapstruct.org/documentation/ide-support/#eclipse -> how to enable mapstruct in eclipse(!!!must enable!!! - Preferences->Maven->Delegate annotation processing to maven plugins) https://www.youtube.com/watch?v=nvjqtWQ5zj8 -> couple words about mapstruct
