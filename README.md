@@ -28,4 +28,10 @@ https://www.baeldung.com/spring-testing-separate-data-source
 
 https://betacode.net/11665/spring-boot-hibernate-and-spring-transaction
 
+https://habr.com/ru/company/itsumma/blog/416629/
 
+https://javatechonline.com/how-to-upload-excel-data-into-database-using-spring-boot/
+
+https://www.javatpoint.com/login-form-java
+
+jenkins!
