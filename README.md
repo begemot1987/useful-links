@@ -23,3 +23,9 @@ https://www.youtube.com/playlist?list=PLJG25HlmvsOX8TiIGUZcVW-ez053YsOX0
 
 https://swapi.dev/ </br>
 https://docs.formsengine.io/
+
+https://www.baeldung.com/spring-testing-separate-data-source
+
+https://betacode.net/11665/spring-boot-hibernate-and-spring-transaction
+
+
