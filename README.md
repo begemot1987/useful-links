@@ -19,6 +19,7 @@ https://docs.camunda.org/manual/7.16 </br>
 https://www.youtube.com/watch?v=sgcSm7YneTs&list=PLJG25HlmvsOVssaiPmavxv3htN_dXS3BW </br>
 https://www.youtube.com/playlist?list=PLJG25HlmvsOX8TiIGUZcVW-ez053YsOX0 </br>
 https://www.youtube.com/playlist?list=PLJG25HlmvsOUnCziyJBWzcNh7RM5quTmv </br>
+https://www.youtube.com/playlist?list=PLLUFZCmqicc-ESKvg3XZE-7yX5o_0PPED
 
 
 ## SOME INTERESTING LINKS
