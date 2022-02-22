@@ -18,7 +18,7 @@ https://www.youtube.com/watch?v=CZ3wIuvmHeM
 https://docs.camunda.org/manual/7.16 </br>
 https://www.youtube.com/watch?v=sgcSm7YneTs&list=PLJG25HlmvsOVssaiPmavxv3htN_dXS3BW </br>
 https://www.youtube.com/playlist?list=PLJG25HlmvsOX8TiIGUZcVW-ez053YsOX0 </br>
-https://www.youtube.com/watch?v=2XeTJQfz_YQ&list=PLJG25HlmvsOUnCziyJBWzcNh7RM5quTmv&index=2 </br>
+https://www.youtube.com/playlist?list=PLJG25HlmvsOUnCziyJBWzcNh7RM5quTmv </br>
 
 
 ## SOME INTERESTING LINKS
