@@ -14,6 +14,7 @@ https://www.youtube.com/watch?v=nvjqtWQ5zj8 -> couple words about mapstruct
 https://www.youtube.com/watch?v=CZ3wIuvmHeM </br>
 https://developer.okta.com/blog/2020/12/07/spring-cloud-config -> Spring Cloud Config </br>
 https://medium.com/backend-habit/intellij-idea-running-multiple-project-microservices-in-one-workspace-d61126fe0eef -> multiple services in one workspace Itellij </br>
+https://www.youtube.com/watch?v=XolV-pKjVyA </br>
 
 ## CAMUNDA
 
