@@ -11,7 +11,8 @@ https://www.youtube.com/watch?v=nvjqtWQ5zj8 -> couple words about mapstruct
 
 
 ## MICROSERVICES
-https://www.youtube.com/watch?v=CZ3wIuvmHeM
+https://www.youtube.com/watch?v=CZ3wIuvmHeM </br>
+https://developer.okta.com/blog/2020/12/07/spring-cloud-config -> Spring Cloud Config
 
 ## CAMUNDA
 
