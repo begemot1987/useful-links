@@ -48,4 +48,5 @@ how to manage xml(Mykola cources)
 
 ## Spring react
 
-https://www.youtube.com/playlist?list=PLnXn1AViWyL70R5GuXt_nIDZytYBnvBdd
+https://www.youtube.com/playlist?list=PLnXn1AViWyL70R5GuXt_nIDZytYBnvBdd </br>
+https://www.youtube.com/watch?v=IZ2SoXUiS7M </br>
