@@ -45,3 +45,7 @@ https://www.youtube.com/watch?v=lA18U8dGKF8 -> JWT in spring boot
 jenkins!</br>
 bpmn! - thepiratebay </br>
 how to manage xml(Mykola cources)
+
+## Spring react
+
+https://www.youtube.com/playlist?list=PLnXn1AViWyL70R5GuXt_nIDZytYBnvBdd
