@@ -50,3 +50,5 @@ how to manage xml(Mykola cources)
 
 https://www.youtube.com/playlist?list=PLnXn1AViWyL70R5GuXt_nIDZytYBnvBdd </br>
 https://www.youtube.com/watch?v=IZ2SoXUiS7M </br>
+
+https://www.vinsguru.com/microservices-dto-to-entity-entity-to-dto-mapping-libraries-comparison/ </br>
