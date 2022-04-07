@@ -42,6 +42,8 @@ https://www.javatpoint.com/login-form-java
 
 https://www.youtube.com/watch?v=lA18U8dGKF8 -> JWT in spring boot
 
+https://www.youtube.com/watch?v=iQ4kENLfaNI&list=PLalrWAGybpB-UHbRDhFsBgXJM1g6T4IvO - RabbitMq </br>
+
 jenkins!</br>
 bpmn! - thepiratebay </br>
 how to manage xml(Mykola cources)
