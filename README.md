@@ -46,7 +46,8 @@ https://www.youtube.com/watch?v=iQ4kENLfaNI&list=PLalrWAGybpB-UHbRDhFsBgXJM1g6T4
 
 jenkins!</br>
 bpmn! - thepiratebay </br>
-how to manage xml(Mykola cources)
+how to manage xml(Mykola cources)</br>
+ArgumentCaptor -> for testing arguments 
 
 ## Spring react
 
@@ -54,3 +55,5 @@ https://www.youtube.com/playlist?list=PLnXn1AViWyL70R5GuXt_nIDZytYBnvBdd </br>
 https://www.youtube.com/watch?v=IZ2SoXUiS7M </br>
 
 https://www.vinsguru.com/microservices-dto-to-entity-entity-to-dto-mapping-libraries-comparison/ </br>
+
+
