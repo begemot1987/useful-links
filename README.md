@@ -57,3 +57,6 @@ https://www.youtube.com/watch?v=IZ2SoXUiS7M </br>
 https://www.vinsguru.com/microservices-dto-to-entity-entity-to-dto-mapping-libraries-comparison/ </br>
 
 
+https://www.youtube.com/watch?v=ON_dPAO4KZs  - how to replace ext4.vhdx file
+
+
